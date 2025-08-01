@@ -10,7 +10,7 @@ timezone: UTC+8
 
 ## Self-introduction
 
-大家好，我是Nanxun，刚进入web3这个圈子，希望可以和妲己一起学习努力！
+大家好，我是Nanxun，刚进入web3这个圈子，希望可以和大家一起学习努力！
 
 ## Notes
 
